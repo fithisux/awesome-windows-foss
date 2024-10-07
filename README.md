@@ -1,6 +1,6 @@
 # Awesome Windows Specific FOSS #
 
-A curated list of windows specific Free Open Source software. This list contains *only* [open source][1]
+A curated list of windows specific Free Open Source software. This list contains *MOSTLY* [open source][1]
 code (as defined by the linked Open Source Definition), and sellers who
 aren't evil for physical resources.
 
@@ -16,6 +16,7 @@ CONTRIBUTING.md first.
 * [Editors](#editors)
 * [Programming](#programming)
 * [SysTools](#systools)
+* [Others](#others)
 
 ## Editors ##
 
@@ -26,6 +27,11 @@ CONTRIBUTING.md first.
 
 * [Dev-C++](https://github.com/Embarcadero/Dev-Cpp) - A fast, portable, simple, and free C/C++ IDE. Dev C++ has been downloaded over 67,796,885 times since 2000 [GNU General Public License][GPL-2.0-or-later].
 * [Euler Math Toolbox](https://www.euler-math-toolbox.de/download.html) - A powerful math program combining numerical and symbolic tools (using the open computer algebra system Maxima) in one free and open source package [GNU General Public License][GPL-2.0-only].
+* [RadAsm](https://github.com/mrfearless/RadASM2) - RadASM is a lightweight IDE tool for all kinds of programmers who are looking for a straightforward application in which to edit their code.
+
+## Others ##
+
+A teasure of modding utilities. No need to replicate here, see [there](https://www.romhacking.net/?page=utilities).
 
 
 [GPL-2.0-only]: https://spdx.org/licenses/GPL-2.0-only.html
