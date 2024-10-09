@@ -16,6 +16,7 @@ CONTRIBUTING.md first.
 * [Editors](#editors)
 * [Programming](#programming)
 * [SysTools](#systools)
+* [FileManagers](#filemanagers)
 * [NetTools](#nettools)
 * [Communications](#communications)
 * [Multimedia](#multimedia)
@@ -42,11 +43,19 @@ CONTRIBUTING.md first.
 
 * [RControlPanel](https://github.com/katahiromz/RControlPanel) - Independent ReactOS Control Panel. [GPL-2.0-only]
 
+* [Winmerge](https://winmerge.org/?lang=en) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. [GPL-2.0-or-later]
+
+## FileManagers ##
+
 * [Explorer++](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows. [GPL-3.0-only]
 
 * [TablacusExplorer](https://github.com/tablacus/TablacusExplorer) - A tabbed file manager with Add-on support. [MIT]
 
-* [Winmerge](https://winmerge.org/?lang=en) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. [GPL-2.0-or-later]
+* [Files](https://github.com/files-community/Files) - Building the best file manager for Windows. [MIT]
+
+* [WinFile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements. [MIT]
+
+* [FarManager](https://www.farmanager.com/index.php?l=en) - Far Manager is a program for managing files and archives in Windows operating systems. [BSD Style](https://www.farmanager.com/license.php?l=en)
 
 ## NetTools ##
 
