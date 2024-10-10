@@ -1,6 +1,6 @@
 # Awesome Windows Specific FOSS #
 
-A curated list of windows specific Free Open Source software. This list contains *MOSTLY* [open source][1]
+A curated list of windows specific, native (not C#) Free Open Source software. This list contains *MOSTLY* [open source][1]
 code (as defined by the linked Open Source Definition), and sellers who
 aren't evil for physical resources.
 
@@ -59,7 +59,7 @@ CONTRIBUTING.md first.
 
 ## NetTools ##
 
-* [RsNetMon](https://www.easycode.cat/English/Sources.htm) - Network monitor showing the TCP/UDP ports. *Public Domain*
+* [RsNetMon](https://www.easycode.cat/English/Sources.htm) - Network monitor showing the TCP/UDP ports. *Source available*
 
 ## Communications ##
 
@@ -67,7 +67,7 @@ CONTRIBUTING.md first.
 
 ## Multimedia ##
 
-* [LionSnake Modeller](http://evilsnack.byethost22.com/lionsnake.htm?i=1) - This modeler is designed for creating posable subdivision surface models for use with the Persistence of Vision Ray Tracer, but you can also use it for editing Alias/Wavefront mesh files. *Public Domain*
+* [LionSnake Modeller](http://evilsnack.byethost22.com/lionsnake.htm?i=1) - This modeler is designed for creating posable subdivision surface models for use with the Persistence of Vision Ray Tracer, but you can also use it for editing Alias/Wavefront mesh files. *Source available*
 
 * [Fermi Tracker](http://famitracker.com/downloads.php) - FamiTracker is a free windows tracker for producing music for the NES/Famicom-systems. The interface is based on MadTracker and should be easy to use if you've been using trackers before. *Source available*
 
