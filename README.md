@@ -27,6 +27,10 @@ CONTRIBUTING.md first.
 
 * [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by [GNU General Public License][GPL-2.0-only].
 
+* [Akelpad](https://akelpad.sourceforge.net/en/download.php) - It is is an open source editor for plain text. It is designed to be a small and fast. [LICENCE NOT CLEAR HELP WANTED]
+
+* [Metapad](https://github.com/alexd/metapad) - Metapad: fast, tiny and powerful Windows notepad replacement.  [GPL-3.0-only]
+
 
 ## Programming ##
 
@@ -72,6 +76,12 @@ CONTRIBUTING.md first.
 * [Fermi Tracker](http://famitracker.com/downloads.php) - FamiTracker is a free windows tracker for producing music for the NES/Famicom-systems. The interface is based on MadTracker and should be easy to use if you've been using trackers before. *Source available*
 
 * [OpenMT](https://github.com/OpenMPT/openmpt/) - OpenMPT is a powerful audio application that makes writing music fun, easy and efficient. [BSD-3-Clause-Modification]
+
+* [VirtualDub](https://www.virtualdub.org/) - VirtualDub is a video capture/processing utility for 32-bit and 64-bit Windows platforms. [GPL-2.0-only]
+
+* [MPC-HC](https://mpc-hc.org/) - An extremely light-weight, open source media player for Windows. [GPL-3.0-only]
+
+* [Camstudio V2] (https://camstudio.org/) - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity. [GPL-2.0-or-later]
 
 ## Gaming ##
 
