@@ -68,6 +68,7 @@ CONTRIBUTING.md first.
 ## Communications ##
 
 * [Miranda-NG](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM. [GPL-2.0-only]
+* [Eudora-Win](https://computerhistory.org/blog/the-eudora-email-client-source-code/) - Email client. [BSD-Like](https://computerhistory.org/blogs/the-eudora-email-client-source-code-license-agreement/). 
 
 ## Multimedia ##
 
