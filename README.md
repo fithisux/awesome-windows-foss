@@ -67,6 +67,8 @@ CONTRIBUTING.md first.
 
 * [FFFTP](https://github.com/ffftp/ffftp) - A F**** Fast FTP client. [BSD-2-Clause]
 
+* [WinSCP](https://sourceforge.net/projects/winscp/) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. [GPL-3.0-only]
+
 ## Communications ##
 
 * [Miranda-NG](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM. [GPL-2.0-only]
@@ -85,7 +87,7 @@ CONTRIBUTING.md first.
 
 * [MPC-HC](https://mpc-hc.org/) - An extremely light-weight, open source media player for Windows. [GPL-3.0-only]
 
-* [Camstudio V2] (https://camstudio.org/) - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity. [GPL-2.0-or-later]
+* [Camstudio V2](https://camstudio.org/) - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity. [GPL-2.0-or-later]
 
 ## Gaming ##
 
