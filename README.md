@@ -65,9 +65,12 @@ CONTRIBUTING.md first.
 
 * [RsNetMon](https://www.easycode.cat/English/Sources.htm) - Network monitor showing the TCP/UDP ports. *Source available*
 
+* [FFFTP](https://github.com/ffftp/ffftp) - A F**** Fast FTP client. [BSD-2-Clause]
+
 ## Communications ##
 
 * [Miranda-NG](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM. [GPL-2.0-only]
+
 * [Eudora-Win](https://computerhistory.org/blog/the-eudora-email-client-source-code/) - Email client. [BSD-Like](https://computerhistory.org/blogs/the-eudora-email-client-source-code-license-agreement/). 
 
 ## Multimedia ##
@@ -99,5 +102,6 @@ A teasure of modding utilities. No need to replicate here, see [there](https://w
 [MIT]: https://spdx.org/licenses/MIT.html
 [BSD-3-Clause-Modification]:  https://spdx.org/licenses/BSD-3-Clause-Modification.html
 [LGPL-2.0-only]: https://spdx.org/licenses/LGPL-2.0-only.html
+[BSD-2-Clause]: https://spdx.org/licenses/BSD-2-Clause.html
 
 [1]: https://opensource.org/osd
