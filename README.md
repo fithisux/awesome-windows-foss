@@ -1,6 +1,6 @@
 # Awesome Windows Specific FOSS #
 
-A curated list of windows specific, native (not C#) Free Open Source software. This list contains *MOSTLY* [open source][1]
+A curated list of windows specific, native (Windows specific C# is legal though) Free Open Source software. This list contains *MOSTLY* [open source][1]
 code (as defined by the linked Open Source Definition), and sellers who
 aren't evil for physical resources.
 
@@ -22,6 +22,7 @@ CONTRIBUTING.md first.
 * [Multimedia](#multimedia)
 * [Gaming](#gaming)
 * [Others](#others)
+* [Viewers](#viewers)
 
 ## Editors ##
 
@@ -90,6 +91,10 @@ CONTRIBUTING.md first.
 * [Camstudio V2](https://camstudio.org/) - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity. [GPL-2.0-or-later]
 
 ## Gaming ##
+
+* ______
+
+## Viewers ##
 
 * ______
 
