@@ -50,6 +50,8 @@ CONTRIBUTING.md first.
 
 * [Winmerge](https://winmerge.org/?lang=en) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. [GPL-2.0-or-later]
 
+* [Yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more. [MIT]
+
 ## FileManagers ##
 
 * [Explorer++](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows. [GPL-3.0-only]
@@ -96,7 +98,11 @@ CONTRIBUTING.md first.
 
 ## Viewers ##
 
-* ______
+* [ImageGlass](https://github.com/d2phap/ImageGlass) - A lightweight, versatile image viewer. [ImageGlass-EULA]
+* [GSView](https://www.ghostgum.com.au/software/gsview.htm) - GSview is a graphical interface for Ghostscript under MS-Windows under "Aladdin Free Public Licence".
+* [DVI For Windows](https://sourceforge.net/projects/dviforwindows/files/) - DVI for Windows, another very fast viewer for windows. [NO-LICENCE]
+* [YAP](https://github.com/MiKTeX/miktex/tree/next/Programs/MiKTeX/Yap) - Yet another DVI previewer. [GPL-2.0-or-later]
+- [WinDjview](https://windjview.sourceforge.io/en/) - WinDjView is a fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options. It uses the free DjVuLibre library to decode DjVu documents. DjVu is a web-centric format and software platform for distributing documents and images. [GPL-2.0-or-later]
 
 ## Others ##
 
@@ -110,5 +116,5 @@ A teasure of modding utilities. No need to replicate here, see [there](https://w
 [BSD-3-Clause-Modification]:  https://spdx.org/licenses/BSD-3-Clause-Modification.html
 [LGPL-2.0-only]: https://spdx.org/licenses/LGPL-2.0-only.html
 [BSD-2-Clause]: https://spdx.org/licenses/BSD-2-Clause.html
-
-[1]: https://opensource.org/osd
+[ImageGlass-EULA]: https://github.com/d2phap/ImageGlass/blob/develop/LICENSE
+[NO-LICENCE] - Licence is not available in package.
