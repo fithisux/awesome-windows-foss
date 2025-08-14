@@ -109,6 +109,8 @@ CONTRIBUTING.md first.
 
 * [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. [GPL-3.0-only]
 
+* [Serenity](https://github.com/malxau/serenity) - Serenity Audio Player is a simple, clean and lightweight Windows audio player. [GPL-2.0-only]
+
 ## Gaming ##
 
 * ______
