@@ -41,6 +41,8 @@ CONTRIBUTING.md first.
 
 * [RadAsm](https://github.com/mrfearless/RadASM2) - RadASM is a lightweight IDE tool for all kinds of programmers who are looking for a straightforward application in which to edit their code. *Public Domain*
 
+* [Visual Masm](https://github.com/ThomasJaeger/VisualMASM) - Assembly IDE for Microsoft MASM [MIT]
+
 
 ## SysTools ##
 
@@ -51,6 +53,14 @@ CONTRIBUTING.md first.
 * [Winmerge](https://winmerge.org/?lang=en) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. [GPL-2.0-or-later]
 
 * [Yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more. [MIT]
+
+* [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) - A Windows tool for writing images to USB sticks or SD/CF cards [GPL-2.0-only]
+
+* [CDRTfe](https://cdrtfe.sourceforge.io/) - cdrtfe is an open source CD/DVD/BD burning application for Microsoft Windows [GPL-2.0-or-later]
+
+* [InfraRecorder](http://infrarecorder.org/) - InfraRecorder is a free CD/DVD burning solution for Microsoft Windows.  [GPL-3.0-only]
+
+* [Task Explorer](https://github.com/DavidXanatos/TaskExplorer) - Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing.[GPL-3.0-only]
 
 ## FileManagers ##
 
@@ -90,7 +100,11 @@ CONTRIBUTING.md first.
 
 * [MPC-HC](https://mpc-hc.org/) - An extremely light-weight, open source media player for Windows. [GPL-3.0-only]
 
+* [MPC-BE](https://sourceforge.net/projects/mpcbe/) - BE is a free and open source audio and video player for Windows. [GPL-3.0-only]
+
 * [Camstudio V2](https://camstudio.org/) - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity. [GPL-2.0-or-later]
+
+* [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - Equalizer APO is a parametric / graphic equalizer for Windows. [GPL-2.0-or-later]
 
 ## Gaming ##
 
