@@ -1,8 +1,7 @@
 # Awesome Windows Specific FOSS #
 
 A curated list of windows specific, native (Windows specific C# is legal though) Free Open Source software. This list contains *MOSTLY* [open source][1]
-code (as defined by the linked Open Source Definition), and sellers who
-aren't evil for physical resources.
+code (as defined by the linked Open Source Definition), and sellers providing source, who aren't evil for physical resources.
 
 This is released under a Creative Commons-Attribution-ShareAlike license,
 version 4 (SPDX code ``CC-BY-SA-4.0``). You can find its text in the LICENSE file.
@@ -62,6 +61,8 @@ CONTRIBUTING.md first.
 
 * [Task Explorer](https://github.com/DavidXanatos/TaskExplorer) - Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing.[GPL-3.0-only]
 
+* [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity [MIT]
+
 ## FileManagers ##
 
 * [Explorer++](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows. [GPL-3.0-only]
@@ -106,6 +107,8 @@ CONTRIBUTING.md first.
 
 * [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - Equalizer APO is a parametric / graphic equalizer for Windows. [GPL-2.0-or-later]
 
+* [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. [GPL-3.0-only]
+
 ## Gaming ##
 
 * ______
@@ -113,10 +116,17 @@ CONTRIBUTING.md first.
 ## Viewers ##
 
 * [ImageGlass](https://github.com/d2phap/ImageGlass) - A lightweight, versatile image viewer. [ImageGlass-EULA]
+
 * [GSView](https://www.ghostgum.com.au/software/gsview.htm) - GSview is a graphical interface for Ghostscript under MS-Windows under "Aladdin Free Public Licence".
+
 * [DVI For Windows](https://sourceforge.net/projects/dviforwindows/files/) - DVI for Windows, another very fast viewer for windows. [NO-LICENCE]
+
 * [YAP](https://github.com/MiKTeX/miktex/tree/next/Programs/MiKTeX/Yap) - Yet another DVI previewer. [GPL-2.0-or-later]
-- [WinDjview](https://windjview.sourceforge.io/en/) - WinDjView is a fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options. It uses the free DjVuLibre library to decode DjVu documents. DjVu is a web-centric format and software platform for distributing documents and images. [GPL-2.0-or-later]
+
+* [WinDjview](https://windjview.sourceforge.io/en/) - WinDjView is a fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options. It uses the free DjVuLibre library to decode DjVu documents. DjVu is a web-centric format and software platform for distributing documents and images. [GPL-2.0-or-later]
+
+* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) - PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for 
+Windows. [BSD-2-Clause]
 
 ## Others ##
 
