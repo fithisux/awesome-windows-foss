@@ -130,9 +130,10 @@ CONTRIBUTING.md first.
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) - PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for 
 Windows. [BSD-2-Clause]
 
-## Others ##
+## Others / Similar efforts ##
 
-A teasure of modding utilities. No need to replicate here, see [there](https://www.romhacking.net/?page=utilities).
+A treasure of modding utilities. No need to replicate here. See [there](https://www.romhacking.net/?page=utilities).
+A suggestion by another user, contains freeware. See [there](https://abreojosensamblador.epizy.com/?Tarea=6&SubTarea=0&Lang=1&i=2)
 
 
 [GPL-2.0-only]: https://spdx.org/licenses/GPL-2.0-only.html
