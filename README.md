@@ -111,6 +111,8 @@ CONTRIBUTING.md first.
 
 * [Serenity](https://github.com/malxau/serenity) - Serenity Audio Player is a simple, clean and lightweight Windows audio player. [GPL-2.0-only]
 
+* [Billy](https://github.com/zQueal/Billy) -  A fast no-nonsense music player. [FSA]
+
 ## Gaming ##
 
 * ______
@@ -132,8 +134,8 @@ Windows. [BSD-2-Clause]
 
 ## Others / Similar efforts ##
 
-A treasure of modding utilities. No need to replicate here. See [there](https://www.romhacking.net/?page=utilities).
-A suggestion by another user, contains freeware. See [there](https://abreojosensamblador.epizy.com/?Tarea=6&SubTarea=0&Lang=1&i=2)
+* A treasure of modding utilities. No need to replicate here. See [there](https://www.romhacking.net/?page=utilities).
+* A suggestion by another user, contains freeware. See [there](https://abreojosensamblador.epizy.com/?Tarea=6&SubTarea=0&Lang=1&i=2)
 
 
 [GPL-2.0-only]: https://spdx.org/licenses/GPL-2.0-only.html
@@ -145,3 +147,4 @@ A suggestion by another user, contains freeware. See [there](https://abreojosens
 [BSD-2-Clause]: https://spdx.org/licenses/BSD-2-Clause.html
 [ImageGlass-EULA]: https://github.com/d2phap/ImageGlass/blob/develop/LICENSE
 [NO-LICENCE] - Licence is not available in package.
+[FSA] - Freeware with source available.
