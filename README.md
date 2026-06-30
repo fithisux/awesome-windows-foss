@@ -115,7 +115,7 @@ CONTRIBUTING.md first.
 
 ## Gaming ##
 
-* ______
+* [LegendCTL](https://evilhumphrey.github.io/LegendCTL/) - Standalone configurator for supported ZD Ultimate Legend controller settings over local USB-HID; unofficial, not firmware/macros/remapping/virtual-controller software. [MIT]
 
 ## Viewers ##
 
