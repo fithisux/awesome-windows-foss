@@ -63,6 +63,8 @@ CONTRIBUTING.md first.
 
 * [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity [MIT]
 
+* [Racks](https://github.com/duartelcunha/Racks) - A lightweight window manager for Windows designed for quick workspace layouts. [MIT]
+
 ## FileManagers ##
 
 * [Explorer++](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows. [GPL-3.0-only]
