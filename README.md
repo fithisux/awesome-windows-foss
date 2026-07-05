@@ -91,27 +91,29 @@ CONTRIBUTING.md first.
 
 ## Multimedia ##
 
-* [LionSnake Modeller](http://evilsnack.byethost22.com/lionsnake.htm?i=1) - This modeler is designed for creating posable subdivision surface models for use with the Persistence of Vision Ray Tracer, but you can also use it for editing Alias/Wavefront mesh files. *Source available*
-
-* [Fermi Tracker](http://famitracker.com/downloads.php) - FamiTracker is a free windows tracker for producing music for the NES/Famicom-systems. The interface is based on MadTracker and should be easy to use if you've been using trackers before. *Source available*
-
-* [OpenMT](https://github.com/OpenMPT/openmpt/) - OpenMPT is a powerful audio application that makes writing music fun, easy and efficient. [BSD-3-Clause-Modification]
-
-* [VirtualDub](https://www.virtualdub.org/) - VirtualDub is a video capture/processing utility for 32-bit and 64-bit Windows platforms. [GPL-2.0-only]
-
-* [MPC-HC](https://mpc-hc.org/) - An extremely light-weight, open source media player for Windows. [GPL-3.0-only]
-
-* [MPC-BE](https://sourceforge.net/projects/mpcbe/) - BE is a free and open source audio and video player for Windows. [GPL-3.0-only]
+* [Billy](https://github.com/zQueal/Billy) - A fast no-nonsense music player. [FSA]
 
 * [Camstudio V2](https://camstudio.org/) - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity. [GPL-2.0-or-later]
 
 * [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - Equalizer APO is a parametric / graphic equalizer for Windows. [GPL-2.0-or-later]
 
-* [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. [GPL-3.0-only]
+* [Fermi Tracker](http://famitracker.com/downloads.php) - FamiTracker is a free windows tracker for producing music for the NES/Famicom-systems. The interface is based on MadTracker and should be easy to use if you've been using trackers before. *Source available*
+
+* [LionSnake Modeller](http://evilsnack.byethost22.com/lionsnake.htm?i=1) - This modeler is designed for creating posable subdivision surface models for use with the Persistence of Vision Ray Tracer, but you can also use it for editing Alias/Wavefront mesh files. *Source available*
+
+* [Mechvibes X](https://github.com/FytikProdd/mechvibes-x) - Play mechanical keyboard sounds as you type with 3D Spatial Audio and pitch/volume randomization. [`MIT`][MIT]
+
+* [MPC-BE](https://sourceforge.net/projects/mpcbe/) - BE is a free and open source audio and video player for Windows. [GPL-3.0-only]
+
+* [MPC-HC](https://mpc-hc.org/) - An extremely light-weight, open source media player for Windows. [GPL-3.0-only]
+
+* [OpenMT](https://github.com/OpenMPT/openmpt/) - OpenMPT is a powerful audio application that makes writing music fun, easy and efficient. [BSD-3-Clause-Modification]
 
 * [Serenity](https://github.com/malxau/serenity) - Serenity Audio Player is a simple, clean and lightweight Windows audio player. [GPL-2.0-only]
 
-* [Billy](https://github.com/zQueal/Billy) -  A fast no-nonsense music player. [FSA]
+* [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. [GPL-3.0-only]
+
+* [VirtualDub](https://www.virtualdub.org/) - VirtualDub is a video capture/processing utility for 32-bit and 64-bit Windows platforms. [GPL-2.0-only]
 
 ## Gaming ##
 
