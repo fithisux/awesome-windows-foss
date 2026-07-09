@@ -25,11 +25,13 @@ CONTRIBUTING.md first.
 
 ## Editors ##
 
-* [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by [GNU General Public License][GPL-2.0-only].
-
 * [Akelpad](https://akelpad.sourceforge.net/en/download.php) - It is is an open source editor for plain text. It is designed to be a small and fast. [LICENCE NOT CLEAR HELP WANTED]
 
 * [Metapad](https://github.com/alexd/metapad) - Metapad: fast, tiny and powerful Windows notepad replacement.  [GPL-3.0-only]
+
+* [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by [GNU General Public License][GPL-2.0-only].
+
+* [WinVI](https://winvi.de/en/) - WinVi is a free editor for MS Windows. [GPL-2.0-or-later]
 
 
 ## Programming ##
@@ -39,6 +41,8 @@ CONTRIBUTING.md first.
 * [Euler Math Toolbox](https://www.euler-math-toolbox.de/download.html) - A powerful math program combining numerical and symbolic tools (using the open computer algebra system Maxima) in one free and open source package [GNU General Public License][GPL-2.0-only].
 
 * [RadAsm](https://github.com/mrfearless/RadASM2) - RadASM is a lightweight IDE tool for all kinds of programmers who are looking for a straightforward application in which to edit their code. *Public Domain*
+
+* [Sally IDE](https://sallyide.sourceforge.net/) - A simple C++ IDE, part of SmartWin++ [GPL-2.0-or-later]
 
 * [Visual Masm](https://github.com/ThomasJaeger/VisualMASM) - Assembly IDE for Microsoft MASM [MIT]
 
