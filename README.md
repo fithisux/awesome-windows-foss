@@ -46,6 +46,8 @@ CONTRIBUTING.md first.
 
 * [Visual Masm](https://github.com/ThomasJaeger/VisualMASM) - Assembly IDE for Microsoft MASM [MIT]
 
+* [Winasm Studio](https://github.com/christianezeani/winasm-studio) - Assembly IDE for Microsoft Windows [MIT]
+
 
 ## SysTools ##
 
@@ -78,6 +80,8 @@ CONTRIBUTING.md first.
 * [WinFile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements. [MIT]
 
 * [FarManager](https://www.farmanager.com/index.php?l=en) - Far Manager is a program for managing files and archives in Windows operating systems. [BSD Style](https://www.farmanager.com/license.php?l=en)
+
+* [Cubic Explorer](https://github.com/You4eea/CubicExplorer-org-code) - The code is copyright the original developer Marko Savolainen. A binary exists in Portable Apps Platform.
 
 ## NetTools ##
 
