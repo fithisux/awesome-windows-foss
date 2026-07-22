@@ -63,6 +63,8 @@ CONTRIBUTING.md first.
 
 * [CDRTfe](https://cdrtfe.sourceforge.io/) - cdrtfe is an open source CD/DVD/BD burning application for Microsoft Windows [GPL-2.0-or-later]
 
+* [ClipBoardPrime](https://github.com/MaximusPrime/ClipBoardPrime) - Fast, private and keyboard-first clipboard manager with integrated notes for Windows. [GPL-3.0-only]
+
 * [InfraRecorder](http://infrarecorder.org/) - InfraRecorder is a free CD/DVD burning solution for Microsoft Windows.  [GPL-3.0-only]
 
 * [Task Explorer](https://github.com/DavidXanatos/TaskExplorer) - Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing.[GPL-3.0-only]
