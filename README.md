@@ -32,6 +32,7 @@ CONTRIBUTING.md first.
 * [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by [GNU General Public License][GPL-2.0-only].
 
 * [WinVI](https://winvi.de/en/) - WinVi is a free editor for MS Windows. [GPL-2.0-or-later]
+* [Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. 
 
 
 ## Programming ##
@@ -47,6 +48,8 @@ CONTRIBUTING.md first.
 * [Visual Masm](https://github.com/ThomasJaeger/VisualMASM) - Assembly IDE for Microsoft MASM [MIT]
 
 * [Winasm Studio](https://github.com/christianezeani/winasm-studio) - Assembly IDE for Microsoft Windows [MIT]
+
+* [Visual Leak Detector](https://github.com/KindDragon/vld) - Visual Leak Detector for Visual C++ 2008-2015 [LGPL-2.0-only]:
 
 
 ## SysTools ##
