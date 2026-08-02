@@ -102,6 +102,8 @@ CONTRIBUTING.md first.
 
 ## Multimedia ##
 
+* [AI Dictation](https://aidictation.com/) - Voice-to-text app for Windows with a configurable global shortcut, offline recognition, and optional cloud transcription and cleanup. [`MIT`][MIT]
+
 * [Billy](https://github.com/zQueal/Billy) - A fast no-nonsense music player. [FSA]
 
 * [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) - Fixes low-quality Bluetooth headset audio when games or voice apps leave a Windows headset stuck in Hands-Free mode, with safe reset, disable, and restore options. [`MIT`][MIT]
