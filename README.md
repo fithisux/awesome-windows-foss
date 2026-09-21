@@ -56,6 +56,8 @@ CONTRIBUTING.md first.
 
 * [7-zip](https://www.7-zip.org/) - 7-Zip is a file archiver with a high compression ratio. [LGPL-2.0-only]  **The most of the code is under the GNU LGPL license. Some parts of the code are under the BSD 3-clause License. Also there is unRAR license restriction for some parts of the code.**
 
+* [Codex Quota Overlay](https://cpys.github.io/codex-quota-overlay/) - Windows desktop overlay and local quota dashboard for Codex, with read-only rate-limit, pace, forecast, history, and activity views. [`MIT`][MIT]
+
 * [RControlPanel](https://github.com/katahiromz/RControlPanel) - Independent ReactOS Control Panel. [GPL-2.0-only]
 
 * [Winmerge](https://winmerge.org/?lang=en) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. [GPL-2.0-or-later]
