@@ -76,17 +76,20 @@ CONTRIBUTING.md first.
 
 ## FileManagers ##
 
+* [Cubic Explorer](https://github.com/You4eea/CubicExplorer-org-code) - The code is copyright the original developer Marko Savolainen. A binary exists in Portable Apps Platform.
+
 * [Explorer++](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows. [GPL-3.0-only]
-
-* [TablacusExplorer](https://github.com/tablacus/TablacusExplorer) - A tabbed file manager with Add-on support. [MIT]
-
-* [Files](https://github.com/files-community/Files) - Building the best file manager for Windows. [MIT]
-
-* [WinFile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements. [MIT]
 
 * [FarManager](https://www.farmanager.com/index.php?l=en) - Far Manager is a program for managing files and archives in Windows operating systems. [BSD Style](https://www.farmanager.com/license.php?l=en)
 
-* [Cubic Explorer](https://github.com/You4eea/CubicExplorer-org-code) - The code is copyright the original developer Marko Savolainen. A binary exists in Portable Apps Platform.
+* [Files](https://github.com/files-community/Files) - Building the best file manager for Windows. [MIT]
+
+* [Heirloom](https://github.com/brianluft/heirloom) - Heirloom apps — Modernized File Manager and Program Manager for Windows [MIT][BSD Zero Clause License]
+
+* [TablacusExplorer](https://github.com/tablacus/TablacusExplorer) - A tabbed file manager with Add-on support. [MIT]
+
+* [WinFile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements. [MIT]
+
 
 ## NetTools ##
 
