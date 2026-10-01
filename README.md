@@ -126,6 +126,8 @@ CONTRIBUTING.md first.
 
 * [OpenMT](https://github.com/OpenMPT/openmpt/) - OpenMPT is a powerful audio application that makes writing music fun, easy and efficient. [BSD-3-Clause-Modification]
 
+* [Riplox](https://xniperbuilds.com/riplox-desktop/) - Riplox is a video downloader for Windows that can also take links shared from your phone. [GPL-3.0-only]
+
 * [Serenity](https://github.com/malxau/serenity) - Serenity Audio Player is a simple, clean and lightweight Windows audio player. [GPL-2.0-only]
 
 * [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. [GPL-3.0-only]
