@@ -145,6 +145,8 @@ CONTRIBUTING.md first.
 
 * [ImageGlass](https://github.com/d2phap/ImageGlass) - A lightweight, versatile image viewer. [ImageGlass-EULA]
 
+* [InkIt](https://github.com/yeib/InkIt) - Ultra-lightweight and offline PDF viewer, signer, filler, and annotation tool. [MIT]
+
 * [GSView](https://www.ghostgum.com.au/software/gsview.htm) - GSview is a graphical interface for Ghostscript under MS-Windows under "Aladdin Free Public Licence".
 
 * [DVI For Windows](https://sourceforge.net/projects/dviforwindows/files/) - DVI for Windows, another very fast viewer for windows. [NO-LICENCE]
