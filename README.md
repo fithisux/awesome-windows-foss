@@ -56,6 +56,7 @@ CONTRIBUTING.md first.
 
 * [7-zip](https://www.7-zip.org/) - 7-Zip is a file archiver with a high compression ratio. [LGPL-2.0-only]  **The most of the code is under the GNU LGPL license. Some parts of the code are under the BSD 3-clause License. Also there is unRAR license restriction for some parts of the code.**
 
+* [Awayra](https://awayra.github.io/AWAYRA-WPF/) - Windows break reminder with separate eye and movement timers, optional sounds, and idle-aware scheduling. [`GPL-3.0-only`][GPL-3.0-only]
 * [Codex Quota Overlay](https://cpys.github.io/codex-quota-overlay/) - Windows desktop overlay and local quota dashboard for Codex, with read-only rate-limit, pace, forecast, history, and activity views. [`MIT`][MIT]
 
 * [RControlPanel](https://github.com/katahiromz/RControlPanel) - Independent ReactOS Control Panel. [GPL-2.0-only]
