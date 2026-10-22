@@ -27,6 +27,8 @@ CONTRIBUTING.md first.
 
 * [Akelpad](https://akelpad.sourceforge.net/en/download.php) - It is is an open source editor for plain text. It is designed to be a small and fast. [LICENCE NOT CLEAR HELP WANTED]
 
+* [Koru](https://github.com/koruworks/mono) - Local-first desktop workspace for notes, documents and files, written in Rust. Native Windows x86-64 build (also available for macOS on Apple silicon); imports Evernote, Notion, OneNote and Markdown. [`MPL-2.0`][MPL-2.0]
+
 * [Metapad](https://github.com/alexd/metapad) - Metapad: fast, tiny and powerful Windows notepad replacement.  [GPL-3.0-only]
 
 * [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by [GNU General Public License][GPL-2.0-only].
@@ -169,6 +171,7 @@ Windows. [BSD-2-Clause]
 [GPL-2.0-or-later]: https://spdx.org/licenses/GPL-2.0-or-later.html
 [GPL-3.0-only]: https://spdx.org/licenses/GPL-3.0-only.html
 [MIT]: https://spdx.org/licenses/MIT.html
+[MPL-2.0]: https://spdx.org/licenses/MPL-2.0.html
 [BSD-3-Clause-Modification]:  https://spdx.org/licenses/BSD-3-Clause-Modification.html
 [LGPL-2.0-only]: https://spdx.org/licenses/LGPL-2.0-only.html
 [BSD-2-Clause]: https://spdx.org/licenses/BSD-2-Clause.html
