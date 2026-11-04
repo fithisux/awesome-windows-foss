@@ -61,6 +61,8 @@ CONTRIBUTING.md first.
 * [Awayra](https://awayra.github.io/AWAYRA-WPF/) - Windows break reminder with separate eye and movement timers, optional sounds, and idle-aware scheduling. [`GPL-3.0-only`][GPL-3.0-only]
 * [Codex Quota Overlay](https://cpys.github.io/codex-quota-overlay/) - Windows desktop overlay and local quota dashboard for Codex, with read-only rate-limit, pace, forecast, history, and activity views. [`MIT`][MIT]
 
+* [Driver Readiness Inspector](https://github.com/titanfyre/Driver-Readiness-Inspector) - Read-only native Windows driver diagnostics with PnP problem codes, service/filter configuration, cached embedded-signature evidence and local HTML/JSON reports; no added driver. [`MIT`][MIT]
+
 * [RControlPanel](https://github.com/katahiromz/RControlPanel) - Independent ReactOS Control Panel. [GPL-2.0-only]
 
 * [Winmerge](https://winmerge.org/?lang=en) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. [GPL-2.0-or-later]
