@@ -62,6 +62,7 @@ CONTRIBUTING.md first.
 * [Codex Quota Overlay](https://cpys.github.io/codex-quota-overlay/) - Windows desktop overlay and local quota dashboard for Codex, with read-only rate-limit, pace, forecast, history, and activity views. [`MIT`][MIT]
 
 * [Driver Readiness Inspector](https://github.com/titanfyre/Driver-Readiness-Inspector) - Read-only native Windows driver diagnostics with PnP problem codes, service/filter configuration, cached embedded-signature evidence and local HTML/JSON reports; no added driver. [`MIT`][MIT]
+* [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Configurable hold-trigger workspace launcher for apps, browser profiles, URLs, and display layouts on Windows 11 (preview). [`MIT`][MIT]
 
 * [RControlPanel](https://github.com/katahiromz/RControlPanel) - Independent ReactOS Control Panel. [GPL-2.0-only]
 
