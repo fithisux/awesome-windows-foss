@@ -99,6 +99,8 @@ CONTRIBUTING.md first.
 
 ## NetTools ##
 
+* [Browser Control SDK](https://github.com/TitanCSA/Browser-Control-SDK) - Native Windows browser with local SDK/MCP automation, persistent profiles and structured page observations; requires Microsoft WebView2 Runtime. [`MIT`][MIT]
+
 * [RsNetMon](https://www.easycode.cat/English/Sources.htm) - Network monitor showing the TCP/UDP ports. *Source available*
 
 * [FFFTP](https://github.com/ffftp/ffftp) - A F**** Fast FTP client. [BSD-2-Clause]
