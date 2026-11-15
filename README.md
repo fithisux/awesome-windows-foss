@@ -181,3 +181,4 @@ Windows. [BSD-2-Clause]
 [ImageGlass-EULA]: https://github.com/d2phap/ImageGlass/blob/develop/LICENSE
 [NO-LICENCE] - Licence is not available in package.
 [FSA] - Freeware with source available.
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
