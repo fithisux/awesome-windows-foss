@@ -80,6 +80,7 @@ CONTRIBUTING.md first.
 * [Task Explorer](https://github.com/DavidXanatos/TaskExplorer) - Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing.[GPL-3.0-only]
 
 * [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity [MIT]
+* [Wingetix](https://github.com/joselyky/Wingetix) - Visual control panel and GUI for Microsoft WinGet with 1-click bulk updates, deep uninstaller, and storage cleaner. [GPL-3.0-only][GPL-3.0-only]
 
 ## FileManagers ##
 
