@@ -138,6 +138,8 @@ CONTRIBUTING.md first.
 
 * [OpenMT](https://github.com/OpenMPT/openmpt/) - OpenMPT is a powerful audio application that makes writing music fun, easy and efficient. [BSD-3-Clause-Modification]
 
+* [PhotoCraft](https://github.com/storytold/photocraft) - Pure Rust desktop photo editor for Windows with lossless rotation, flipping, cropping, and canvas controls. [`MIT`][MIT]
+
 * [Riplox](https://xniperbuilds.com/riplox-desktop/) - Riplox is a video downloader for Windows that can also take links shared from your phone. [GPL-3.0-only]
 
 * [Serenity](https://github.com/malxau/serenity) - Serenity Audio Player is a simple, clean and lightweight Windows audio player. [GPL-2.0-only]
