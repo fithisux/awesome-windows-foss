@@ -79,6 +79,8 @@ CONTRIBUTING.md first.
 
 * [Task Explorer](https://github.com/DavidXanatos/TaskExplorer) - Task Explorer is a powerful task management tool designed not only to monitor running applications but to provide deep insight into what those applications are doing.[GPL-3.0-only]
 
+* [Thumbico](https://www.aurelitec.com/thumbico/) - Extracts and displays the thumbnail or icon of any file, folder, or drive at custom sizes and exports to image formats. [`MIT`][MIT]
+
 * [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity [MIT]
 
 ## FileManagers ##
