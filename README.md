@@ -146,6 +146,8 @@ CONTRIBUTING.md first.
 
 * [Riplox](https://xniperbuilds.com/riplox-desktop/) - Riplox is a video downloader for Windows that can also take links shared from your phone. [GPL-3.0-only]
 
+* [ScreenToGif](https://www.screentogif.com/) - Screen, webcam, and sketchboard recorder with an integrated frame-by-frame editor to export to animated GIF, APNG, and video. [`MS-PL`][MS-PL]
+
 * [Serenity](https://github.com/malxau/serenity) - Serenity Audio Player is a simple, clean and lightweight Windows audio player. [GPL-2.0-only]
 
 * [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. [GPL-3.0-only]
@@ -184,6 +186,7 @@ Windows. [BSD-2-Clause]
 [GPL-3.0-only]: https://spdx.org/licenses/GPL-3.0-only.html
 [MIT]: https://spdx.org/licenses/MIT.html
 [MPL-2.0]: https://spdx.org/licenses/MPL-2.0.html
+[MS-PL]: https://spdx.org/licenses/MS-PL.html
 [BSD-3-Clause-Modification]:  https://spdx.org/licenses/BSD-3-Clause-Modification.html
 [LGPL-2.0-only]: https://spdx.org/licenses/LGPL-2.0-only.html
 [BSD-2-Clause]: https://spdx.org/licenses/BSD-2-Clause.html
