@@ -82,6 +82,8 @@ CONTRIBUTING.md first.
 
 * [Thumbico](https://www.aurelitec.com/thumbico/) - Extracts and displays the thumbnail or icon of any file, folder, or drive at custom sizes and exports to image formats. [`MIT`][MIT]
 
+* [TranslucentTB](https://translucenttb.github.io) - Customizes the Windows taskbar appearance with translucent, transparent, blur, and acrylic effects per system state. [`GPL-3.0-only`][GPL-3.0-only]
+
 * [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity [MIT]
 * [Wingetix](https://github.com/joselyky/Wingetix) - Visual control panel and GUI for Microsoft WinGet with 1-click bulk updates, deep uninstaller, and storage cleaner. [GPL-3.0-only][GPL-3.0-only]
 
