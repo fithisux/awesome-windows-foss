@@ -171,6 +171,8 @@ CONTRIBUTING.md first.
 
 * [DVI For Windows](https://sourceforge.net/projects/dviforwindows/files/) - DVI for Windows, another very fast viewer for windows. [NO-LICENCE]
 
+* [QuickLook](https://github.com/QL-Win/QuickLook) - Quick preview of file contents in Windows File Explorer by pressing the Space key. [`GPL-3.0-only`][GPL-3.0-only]
+
 * [YAP](https://github.com/MiKTeX/miktex/tree/next/Programs/MiKTeX/Yap) - Yet another DVI previewer. [GPL-2.0-or-later]
 
 * [WinDjview](https://windjview.sourceforge.io/en/) - WinDjView is a fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options. It uses the free DjVuLibre library to decode DjVu documents. DjVu is a web-centric format and software platform for distributing documents and images. [GPL-2.0-or-later]
