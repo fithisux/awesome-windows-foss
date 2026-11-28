@@ -64,6 +64,7 @@ CONTRIBUTING.md first.
 
 * [Driver Readiness Inspector](https://github.com/titanfyre/Driver-Readiness-Inspector) - Read-only native Windows driver diagnostics with PnP problem codes, service/filter configuration, cached embedded-signature evidence and local HTML/JSON reports; no added driver. [`MIT`][MIT]
 * [EarTrumpet](https://eartrumpet.app/) - Volume control app for Windows with per-application volume sliders, device routing, and default audio device switching. [`MIT`][MIT]
+* [Flow Launcher](https://www.flowlauncher.com/) - Quick file search and app launcher for Windows with extensible plugin, web search, and system command workflows. [`MIT`][MIT]
 * [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Configurable hold-trigger workspace launcher for apps, browser profiles, URLs, and display layouts on Windows 11 (preview). [`MIT`][MIT]
 
 * [RControlPanel](https://github.com/katahiromz/RControlPanel) - Independent ReactOS Control Panel. [GPL-2.0-only]
