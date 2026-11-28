@@ -127,8 +127,6 @@ CONTRIBUTING.md first.
 
 * [Billy](https://github.com/zQueal/Billy) - A fast no-nonsense music player. [FSA]
 
-* [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) - Fixes low-quality Bluetooth headset audio when games or voice apps leave a Windows headset stuck in Hands-Free mode, with safe reset, disable, and restore options. [`MIT`][MIT]
-
 * [Camstudio V2](https://camstudio.org/) - CamStudio is a desktop software for Windows computers that can record all on-screen video and audio activity. [GPL-2.0-or-later]
 
 * [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - Equalizer APO is a parametric / graphic equalizer for Windows. [GPL-2.0-or-later]
@@ -154,6 +152,8 @@ CONTRIBUTING.md first.
 * [Serenity](https://github.com/malxau/serenity) - Serenity Audio Player is a simple, clean and lightweight Windows audio player. [GPL-2.0-only]
 
 * [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. [GPL-3.0-only]
+
+* [StereoKeeper](https://github.com/Avazbek22/StereoKeeper) - Tray app that fixes bad Bluetooth headphone sound on Windows. When Call of Duty, Discord or OBS turns on the headset mic, the sound drops to low-quality mono like a phone call; StereoKeeper brings back stereo in one click and can keep your headphones in stereo. [`MIT`][MIT]
 
 * [VirtualDub](https://www.virtualdub.org/) - VirtualDub is a video capture/processing utility for 32-bit and 64-bit Windows platforms. [GPL-2.0-only]
 
