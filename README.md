@@ -69,6 +69,8 @@ CONTRIBUTING.md first.
 
 * [RControlPanel](https://github.com/katahiromz/RControlPanel) - Independent ReactOS Control Panel. [GPL-2.0-only]
 
+* [Rufus](https://rufus.ie/) - Native Windows utility to format and create bootable USB flash drives from ISOs, disk images, and live Linux distributions. [`GPL-3.0-or-later`][GPL-3.0-or-later]
+
 * [Winmerge](https://winmerge.org/?lang=en) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. [GPL-2.0-or-later]
 
 * [Yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more. [MIT]
@@ -187,6 +189,7 @@ Windows. [BSD-2-Clause]
 [GPL-2.0-only]: https://spdx.org/licenses/GPL-2.0-only.html
 [GPL-2.0-or-later]: https://spdx.org/licenses/GPL-2.0-or-later.html
 [GPL-3.0-only]: https://spdx.org/licenses/GPL-3.0-only.html
+[GPL-3.0-or-later]: https://spdx.org/licenses/GPL-3.0-or-later.html
 [MIT]: https://spdx.org/licenses/MIT.html
 [MPL-2.0]: https://spdx.org/licenses/MPL-2.0.html
 [MS-PL]: https://spdx.org/licenses/MS-PL.html
